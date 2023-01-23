@@ -10,3 +10,9 @@ Extract a tar file:
 Find largest files in a directory:
 `du -ahx / | sort -rh | head -5`
 `sudo find / -xdev -type f -size +100M`
+
+Search yum for installed packages:
+`sudo yum search "<package name>"`
+
+Remove a package:
+`sudo yum remove "<package name>"`
