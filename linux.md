@@ -15,4 +15,4 @@ Search yum for installed packages:
 `sudo yum search "<package name>"`
 
 Remove a package:
-`sudo yum remove "<package name>"`
+`sudo yum remove <package name>`
