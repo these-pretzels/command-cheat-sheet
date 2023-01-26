@@ -1,6 +1,9 @@
 Zip up a directory:
 `zip -r folder.zip <folder>`
 
+Unzip a file:
+`unzip <file.zip>`
+
 Tar up a directory:
 `tar -cvzf compress.tgz /path/to/your/data`
 
