@@ -19,3 +19,7 @@ Search yum for installed packages:
 
 Remove a package:
 `sudo yum remove <package name>`
+
+**Application** <br>
+Check version of nginx installed:
+`nginx -version`
