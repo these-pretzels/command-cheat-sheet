@@ -49,10 +49,5 @@ Delete all files in a bucket
 `aws s3 rm s3://[bucketname]`  
  
 Delete a bucket (must be empty. Or can use --force)
-`aws s3 rb s3://[bucketname]`  
-
-
-
-
-  
+`aws s3 rb s3://[bucketname]`   
   
